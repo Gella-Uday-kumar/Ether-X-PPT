@@ -6,7 +6,7 @@
     "dev": "concurrently \"npm run client\" \"npm run server\"",
     "client": "cd client && npm run dev",
     "server": "cd server && npm run start",
-    "build": "cd client && npm install && npm run build",
+    "build": "npm install --prefix client && cd client && npm run build",
 
     "start": "cd server && npm install && npm start"
   },
