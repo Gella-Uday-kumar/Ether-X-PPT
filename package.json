@@ -1,0 +1,16 @@
+{
+  "name": "etherxppt-organized",
+  "version": "2.0.0",
+  "description": "PowerPoint Replica Application",
+  "scripts": {
+    "dev": "concurrently \"npm run client\" \"npm run server\"",
+    "client": "cd client && npm run dev",
+    "server": "cd server && npm run start",
+    "build": "cd client && npm install && npm run build",
+    "install": "cd client && npm install",
+    "start": "cd server && npm install && npm start"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.0"
+  }
+}

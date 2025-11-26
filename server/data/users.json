@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1763957386024",
+    "name": "uday kumar",
+    "email": "gellaudaykumar2329@gmail.com",
+    "password": "$2a$10$mnLqSi2AtqwMxIFe6/bpzOc5rl3.kYocVd3ez4s2gqdlZQx/vVRbe",
+    "createdAt": "2025-11-24T04:09:46.024Z",
+    "isVerified": false
+  },
+  {
+    "id": "1763960523353",
+    "name": "arul manikandan",
+    "email": "arulk9956@gmail.com",
+    "password": "$2a$10$B3oSAMM3KhuN0hhAr1dEiO9KIAsX2i/U9Uv1X51ABe6hREDkhubYu",
+    "createdAt": "2025-11-24T05:02:03.353Z",
+    "isVerified": false
+  },
+  {
+    "id": "1764071912970",
+    "name": "anushri ks",
+    "email": "anushriks73@mail.com",
+    "password": "$2a$10$4zfosG64MD3qX5YbwTkN0OZJhHcnYw3bsfs34VVmZbyd3mmtdnMzO",
+    "createdAt": "2025-11-25T11:58:32.970Z",
+    "isVerified": false
+  },
+  {
+    "id": "1764072177459",
+    "name": "anushri ks",
+    "email": "anushriks73@gmail.com",
+    "password": "$2a$10$.42u5kiEcJMxY5OQBipyoeeDajy47VLsVDIVME/VJWYPGcH0QcqpK",
+    "createdAt": "2025-11-25T12:02:57.459Z",
+    "isVerified": false
+  },
+  {
+    "id": "1764135182561",
+    "name": "Kishore P",
+    "email": "pkishore530@gmail.com",
+    "password": "$2a$10$3r7pDdDIOKCZO8yaI4PwLOnVNuI/M7578E7tR1XYCzDM9hIRuf11G",
+    "createdAt": "2025-11-26T05:33:02.561Z",
+    "isVerified": false
+  }
+]
